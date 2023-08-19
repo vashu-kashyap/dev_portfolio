@@ -10,12 +10,13 @@ module.exports = {
       fontFamily: {
         roboto: ["Roboto", "sans-serif"],
         borel: ["Borel", "cursive"],
+        bellefair: ['Bellefair', 'serif'],
       },
       colors: {
         "dark-black": "#0B0D17",
         "tealish-blue": "#D0D6F9",
-        'dark-grey':'#333333',
-        'light-grey':'#ACACAC'
+        'dark-gray':'#333333',
+        'light-gray':'#ACACAC'
       },
     },
   },
