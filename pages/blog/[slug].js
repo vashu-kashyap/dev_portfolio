@@ -71,7 +71,7 @@ export async function getServerSideProps(context) {
 
   const {slug} = context.query;
   // Define the API endpoints for projects and blog posts
-  const blogpostApi = `http://127.0.0.1:1337/api/blog-posts?filters[slug]=${slug}&populate=*`;
+  const blogpostApi = `https://dev-beckend.onrender.com/api/blog-posts?filters[slug]=${slug}&populate=*`;
 
   // Set the authorization header using the API token from environment variables
   const header = {
