@@ -22,7 +22,7 @@ const work = ({ projectData }) => {
           </div>
           <p className="lg:w-1/2 w-full leading-relaxed text-light-gray">
             Discover my world of creativity and hard work! Take a quick tour of
-            My All Work to explore all the projects I've brought to life.
+            My All Work to explore all the projects I`&#39;`ve brought to life.
           </p>
         </div>
         <div className="flex flex-wrap -m-4 mt-4 ">

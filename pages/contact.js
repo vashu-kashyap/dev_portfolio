@@ -57,7 +57,7 @@ const Contact = () => {
             </h3>
           </div>
           <p className="lg:w-1/2 w-full leading-relaxed text-light-gray">
-          Get in touch with us! Your thoughts matter. Whether you have a question, idea, or just want to say hello, we're all ears. Reach out through the contact form, drop us an email, or give us a call. We're here to make connections and help you out!
+          Get in touch with us! Your thoughts matter. Whether you have a question, idea, or just want to say hello, we`&#39;`re all ears. Reach out through the contact form, drop us an email, or give us a call. We`&#39;`re here to make connections and help you out!
           </p>
         </div>
         <div className="container   mx-auto flex sm:flex-nowrap flex-wrap">

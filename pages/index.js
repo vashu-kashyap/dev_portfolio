@@ -128,7 +128,7 @@ const Index = ({ projectData, blogData }) => {
             </div>
             <div className="flex flex-col items-start md:w-1/2 lg:pl-24 md:pl-16 lg:flex-grow text-left font-roboto">
               <h4 className="text-3xl sm:text-4xl mb-4 text-purple-500 font-semibold title-font">
-                I'm Vashu &
+                I`&#39;`m Vashu &
                 <br className="hidden lg:inline-block" />
                 Front-End Web Developer
               </h4>
@@ -164,7 +164,7 @@ const Index = ({ projectData, blogData }) => {
                 </h3>
               </div>
               <p className="lg:w-1/2 w-full leading-relaxed text-light-gray">
-                Explore my freshest frontend work! I've woven together
+                Explore my freshest frontend work! I`&#39;`ve woven together
                 creativity and code to craft an immersive web app. Dive in now
                 to witness innovation in action
               </p>
@@ -250,7 +250,7 @@ const Index = ({ projectData, blogData }) => {
               </div>
               <p className="w-full lg:w-1/2 leading-relaxed text-light-gray">
                 Welcome to the Latest Blog section—a special spot where I
-                explain frontend details, provide tips, and showcase what's new.
+                explain frontend details, provide tips, and showcase what`&#39;`s new.
                 Explore user-friendly design, discover fresh web development
                 ideas, and stay up-to-date in the ever-changing digital world.
               </p>
@@ -338,11 +338,11 @@ const Index = ({ projectData, blogData }) => {
               <p className="w-full lg:w-1/2 leading-relaxed text-light-gray">
                 {/* Section Description */}
                 Are you a passionate frontend developer, backend engineer, UI/UX
-                designer, or someone with other relevant skills? I'm a solo
+                designer, or someone with other relevant skills? I`&#39;`m a solo
                 member looking to form a collaborative team to bring innovative
-                projects to life. If you're enthusiastic about creating
+                projects to life. If you`&#39;`re enthusiastic about creating
                 exceptional web experiences and want to be part of a dynamic
-                team, let's join forces and make a positive impact in the
+                team, let`&#39;`s join forces and make a positive impact in the
                 digital world together.
               </p>
             </div>
