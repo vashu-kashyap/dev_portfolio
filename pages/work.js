@@ -50,7 +50,7 @@ const work = ({ projectData }) => {
                     {item.attributes.excerpt}
                   </p>
                   <div className="btngroup mt-2 space-x-4">
-                    <Link href={`/project/${item.attributes.slug}`}>
+                    <Link href={`/project/${item.attributes.liveUrl}`}>
                       <Mybutton label={"View"} size={"small"} />
                     </Link>
                     <Mybutton
