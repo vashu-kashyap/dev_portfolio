@@ -22,7 +22,7 @@ const Contact = () => {
     try {
       // Send a POST request to the email sending API
       const response = await axios.post(
-        "http://localhost:3000/api/sendContact",
+        "https://dev-portfolio-gamma-ten.vercel.app/api/sendContact",
         field,
         {
           headers: {

@@ -73,8 +73,7 @@ export default blog;
 
 export async function getServerSideProps() {
   // Define the API endpoints for projects and blog posts
-  const projectApi = "http://127.0.0.1:1337/api/projects?populate=*";
-  const blogpostApi = "http://127.0.0.1:1337/api/blog-posts/?populate=*";
+  const blogpostApi = "https://dev-beckend.onrender.com/api/blog-posts/?populate=*";
 
   // Set the authorization header using the API token from environment variables
   const header = {
